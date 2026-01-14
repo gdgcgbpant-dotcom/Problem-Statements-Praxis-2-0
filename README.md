@@ -6,11 +6,9 @@ This repository contains the problem statements, rules, timelines, and submissio
 
 ---
 
-## Quick Overview
+## Overview
 
 **Praxis 2.0** is a **GenAI + Machine Learning innovation showcase** where student teams design and build functional prototypes that address real-world challenges.
-
-Unlike traditional hackathons, Praxis 2.0 runs through **guided phases**, allowing teams to move from ideation to execution to a final **offline prototype showcase**. The focus is on thoughtful problem-solving, technical depth, and real-world relevance rather than speed alone.
 
 ---
 
@@ -45,3 +43,35 @@ Each team must submit the following:
   - Model details and evaluation metrics  
   - Explanation of how ML + GenAI are integrated  
   - Any ethical, bias, or limitation considerations
+---
+## 📊 Data, Modeling & Reasoning Note
+
+For each problem statement, a **curated dataset will be provided** to participants as a baseline.
+
+Teams are expected to apply **Machine Learning techniques** for tasks such as prediction, forecasting, segmentation, classification, or pattern discovery, using appropriate evaluation metrics.
+
+To support explanation, reasoning, summarization, and insight generation, teams may use **Generative AI**, including:
+- Open-source large language models  
+- Free-tier APIs such as **Gemini**
+
+The choice of tools, frameworks, or architectures is left open.
+
+Submissions should demonstrate **meaningful integration of ML + GenAI**, where analytical outputs are translated into **clear, human-understandable insights**.
+
+> There is **no requirement** to build a chatbot or conversational interface.  
+> GenAI may be used in any form that improves reasoning, visualization or decision support.
+
+---
+
+## Final Note
+
+Praxis 2.0 values:
+- Thoughtful problem framing  
+- Sound technical reasoning  
+- Responsible use of AI  
+- Clear communication of insights  
+
+There is **no single correct solution**. Creativity and depth will be rewarded alongside technical rigor.
+
+Good luck, and we look forward to seeing what you build 🚀
+  
