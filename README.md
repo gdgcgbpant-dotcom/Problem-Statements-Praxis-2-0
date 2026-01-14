@@ -58,7 +58,6 @@ The choice of tools, frameworks, or architectures is left open.
 
 Submissions should demonstrate **meaningful integration of ML + GenAI**, where analytical outputs are translated into **clear, human-understandable insights**.
 
-> There is **no requirement** to build a chatbot or conversational interface.  
 > GenAI may be used in any form that improves reasoning, visualization or decision support.
 
 ---
